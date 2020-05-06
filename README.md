@@ -16,7 +16,7 @@
 
 # Definition
 
-_Is a project built using **HTML5 & CSS3**, it has 1 main page:_
+_Is a project built using **HTML5&CSS3&JQ**, it has 1 main page:_
 
 - _**main page**_ displays many sections.
 
