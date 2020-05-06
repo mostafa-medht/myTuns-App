@@ -30,4 +30,4 @@ You can get the hosted project here -> https://mostafa-medht.github.io/myTuns-Ap
 
 ## Copyright
 
-The responsive menu is by Ash Neilson: Visit The Codepen
+The responsive menu is by Ash Neilson: Visit https://codepen.io/neilso/pen/ziwgI
